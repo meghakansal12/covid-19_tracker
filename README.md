@@ -1,2 +1,11 @@
-# covid-19_tracker
-Covid-19 Tracker using React JS (Fullstack-2 Project)
+# React Covid-19 Tracker
+
+In the project directory, you can run:
+# npm start
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in the browser.
+# npm run build
+Builds the app for production to the build folder.
+It correctly bundles React in production mode and optimizes the build for the best performance.
+# Deployment
+https://react-js-covid-19-tracker.netlify.app/
